@@ -2,7 +2,7 @@
 
 Ignite Lab - Rocketseat | Aplicação React Typescript
 
-###Ferramentas utilizadas: 
+### Ferramentas utilizadas: 
 
 Vite
 Tailwindcss
