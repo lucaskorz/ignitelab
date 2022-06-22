@@ -6,9 +6,9 @@ export function Event() {
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-      <main className="flex flex-1">
+      <main className="flex flex-1 p-1">
+      <Video />
         <Sidebar />
-        <Video />
       </main>
     </div>
   )
