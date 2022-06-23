@@ -13,7 +13,7 @@ const GET_LESSONS_QUERY = gql`
   }
 `;
 
-interface GetLesoonsQueryResponse {
+interface GetLessonsQueryResponse {
   lessons: {
     id: string
     title: string
@@ -24,7 +24,7 @@ interface GetLesoonsQueryResponse {
 }
 
 export function Sidebar() {
-  const { data } = useQuery<GetLesoonsQueryResponse>(GET_LESSONS_QUERY)
+  const { data } = useQuery<GetLessonsQueryResponse>(GET_LESSONS_QUERY)
 
   console.log(data)
 
