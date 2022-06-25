@@ -2,7 +2,7 @@
 
 Ignite Lab - Rocketseat | Aplicação React Typescript
 
-## DEPLOY VERCEL: https://ignitelab-lucaskorz.vercel.app/
+### DEPLOY VERCEL: https://ignitelab-lucaskorz.vercel.app/
 
 #### Ferramentas utilizadas: 
 
