@@ -4,13 +4,9 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-<<<<<<< HEAD
-    "build": "tsc && vite build"
-=======
     "build": "tsc && vite build",
     "preview": "vite preview",
     "codegen": "graphql-codegen"
->>>>>>> b9c0765 (finalizando aplicação)
   },
   "dependencies": {
     "@apollo/client": "^3.6.8",
